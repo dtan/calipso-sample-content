@@ -13,12 +13,6 @@ exports = module.exports = {
   install: install,
   reload: reload,
   disable: disable,
-  about: {
-    description: 'Sample content to test themes.',
-    author: 'cliftonc',
-    version: '0.1.1',
-    home: 'http://github.com/cliftonc/calipso'
-  },
   depends:["content","contentTypes"]
 };
 
